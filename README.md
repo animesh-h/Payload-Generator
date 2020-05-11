@@ -4,5 +4,5 @@
 * `$git-clone https://github.com/animesh-h/Payload-Generator.git`
 * `$cd Payload-Generator`
 * `$chmod+x payload.sh`
-# usage
+# Usage
 * `$./payload.sh`
